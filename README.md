@@ -29,7 +29,4 @@ gmail-generator/
 ├── .env                 # Environment file containing the Hugging Face API token (do not commit!)
 
 
-├── requirements.txt     # Project dependencies
-
-
-└── .gitignore            # Files and directories to ignore in Git (e.g., .env, pycache)
+└──  requirements.txt     # Project dependencies
