@@ -1,14 +1,20 @@
-# **Project Title**
+# **Gmail Generator using Hugging Face and Streamlit**
 
-This is a **Markdown-formatted** `README.md` file.
+This project is a Gmail Generator web application that leverages Hugging Face’s Inference API and Streamlit to generate professionally formatted emails based on user inputs such as sender/recipient names, email subject, tone, and purpose.  
+The app is designed to dynamically build a well-structured email that includes a greeting, body, closing, and contact details.
 
-## 🚀 Features
+---
 
-- Easy to use
-- Lightweight
-- Secure
+## **Features**
 
-## 🔧 Usage
+- Generates emails with just a few inputs  
+- Supports multiple tones: Formal, Informal, Professional, Friendly  
+- Automatically structures the email: greeting, body, closing  
+- Uses Hugging Face's LLM API (`zephyr-7b-beta`)  
+- Download the generated email as a `.txt` file  
+- Secure token management via `.env` file  
 
-```python
-print("Hello, world!")
+---
+
+## **Project Structure**
+
