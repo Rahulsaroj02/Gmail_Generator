@@ -30,3 +30,31 @@ gmail-generator/
 
 
 └──  requirements.txt     # Project dependencies
+
+
+---
+
+## **Prerequisites**
+
+1. Python 3.7 or higher  
+2. A Hugging Face account and your API token  
+   - Get your token from: https://huggingface.co/settings/tokens  
+
+---
+
+## **Installation**
+
+### 1. Clone the repository
+
+git clone https://github.com/yourusername/gmail-generator.git
+cd gmail-generator
+
+### 2. Create and activate a virtual environment (optional but recommended)
+
+python -m venv venv
+venv\Scripts\activate
+
+### 3. Create a .env file
+
+Create a file named .env in the root directory and add your Hugging Face API token:
+HUGGINGFACE_API_TOKEN=your_huggingface_token_here
