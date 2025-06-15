@@ -21,7 +21,15 @@ The app is designed to dynamically build a well-structured email that includes a
 
 
 gmail-generator/
+
+
 ├── app.py # Main Streamlit app file
+
+
 ├── .env # Environment file containing the Hugging Face API token (do not commit!)
+
+
 ├── requirements.txt # Project dependencies
+
+
 └── .gitignore # Files and directories to ignore in Git (e.g., .env, pycache)
