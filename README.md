@@ -1,4 +1,4 @@
-Gmail Generator using Hugging Face and Streamlit
+**Gmail Generator using Hugging Face and Streamlit**
 
 This project is a Gmail Generator web application that leverages Hugging Face’s Inference API and Streamlit to generate professionally formatted emails based on user inputs such as sender/recipient names, email subject, tone, and purpose. The app is designed to dynamically build a well-structured email that includes a greeting, body, closing, and contact details.
 
