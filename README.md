@@ -47,6 +47,7 @@ gmail-generator/
 ### 1. Clone the repository
 
 git clone https://github.com/Rahulsaroj02/Gmail_Generator
+
 cd gmail-generator
 
 ### 2. Create and activate a virtual environment (optional but recommended)
@@ -57,4 +58,9 @@ venv\Scripts\activate
 ### 3. Create a .env file
 
 Create a file named .env in the root directory and add your Hugging Face API token:
+
 HUGGINGFACE_API_TOKEN=your_huggingface_token_here
+
+### 4. Install dependencies
+
+pip install -r requirements.txt
