@@ -46,7 +46,7 @@ gmail-generator/
 
 ### 1. Clone the repository
 
-git clone https://github.com/yourusername/gmail-generator.git
+git clone https://github.com/Rahulsaroj02/Gmail_Generator
 cd gmail-generator
 
 ### 2. Create and activate a virtual environment (optional but recommended)
